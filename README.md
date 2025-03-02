@@ -10,7 +10,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,astro,ruby,figma" />
 
 ## 🔥 Activities
-<div align="left"> 
+<div align="left" display="flex"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=arccosh2&theme=dracula&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arccosh2&theme=dracula&layout=compact" />
 </div>
